@@ -1,2 +1,3 @@
 # brain_computer_interface
 This is a repository for brain signal (EEG) analysis.
+This repo contains MATLAB code to build and evaluate models that predict arm kinetics from motor cortex neural activity. The tasks involve training linear regression models on real neural and kinematic data collected from monkeys performing reaching movements. Key techniques explored include cross-validation, PCA for dimensionality reduction, incorporating proprioceptive feedback, and hyperparameter optimization. This repo provides practical neural decoding experience and highlights important concepts like overfitting and generalization performance.
