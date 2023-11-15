@@ -8,7 +8,7 @@ This repo contains MATLAB code to build and evaluate models that predict arm kin
 
 <img width="300" alt="image" src="https://github.com/zkhodzhaev/ML_brain_computer_interface/assets/21960382/d8021e19-9caa-4b5c-be0d-a27d1898b967">
 
-Predicting joint motion (blue = actual, red = predicted):
+Predicting joint motion (blue = actual, red = predicted). The predicted will try to match/ approach the actual positon of the arm:
 
 <img width="300" alt="image" src="https://github.com/zkhodzhaev/ML_brain_computer_interface/assets/21960382/2ca2a421-ecda-4ff2-bca1-c85000e3cdc8">
 
